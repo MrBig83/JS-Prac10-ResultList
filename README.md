@@ -5,7 +5,7 @@ A result list to be used to vitually any game
 <p> Every player should have a + and a - sign to increase or decrease its points. 
 <br>
 
-### === Swedish below ===
+#### ===== Swedish below =====
 
 Nu skall du skapa en resultatlista som går att använda till valfritt spel.
 
