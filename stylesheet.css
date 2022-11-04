@@ -1,0 +1,52 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    background-color: rgba(176, 196, 222, 0.5);
+}
+#addNewPlayerName{
+    margin-left: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    box-shadow: 2px 2px 10px ;
+}
+#saveBtn{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: -3px;
+    height: 36px;
+    box-shadow: 2px 2px 10px;
+}
+.inputBtn{
+    margin-left: 10px;
+    
+}
+
+#scoreboard{
+    width: 500px;
+    
+}
+.player{
+    
+    margin: 10px;
+    padding: 10px;
+    background-color: lightblue;
+    border: 1px solid rgba(0, 0, 255, 0.5);
+    
+}
+
+.dec{
+    box-shadow: 2px 2px 10px;
+    height: 30px;
+    width: 30px;
+    margin: 10px;
+    background-color: lightcoral
+}
+
+.inc{
+    box-shadow: 2px 2px 10px;
+    height: 30px;
+    width: 30px;
+    margin: 10px;
+    background-color: rgba(144, 238, 144, 0.75)
+}
